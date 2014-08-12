@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>68B41525-CB0D-449E-B72E-9A22356DC672</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS_ParseTest_2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>310E8D31-AE4D-47A1-B836-866C2FCC0B4D</key>
+		<string>https://github.com/vwijaya/iOS_ParseTest_2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS_ParseTest_2.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>310E8D31-AE4D-47A1-B836-866C2FCC0B4D</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vwijaya/iOS_ParseTest_2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>310E8D31-AE4D-47A1-B836-866C2FCC0B4D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>310E8D31-AE4D-47A1-B836-866C2FCC0B4D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_ParseTest_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

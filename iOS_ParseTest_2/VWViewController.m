@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    PFObject *testObject = [PFObject objectWithClassName:@"MyObject"];
+    [testObject setObject:@"barbar" forKey:@"fooKey"];
+    [testObject save];
 }
 
 - (void)didReceiveMemoryWarning
